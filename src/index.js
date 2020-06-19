@@ -94,11 +94,4 @@ server.delete('/projects/:id', (req,res)=>{
 
 // rotas put e delete estão passando :id pois será os parametros recebidos.
 
-
-
-
-
-
-
-
 server.listen(3333); // criando uma porta para ser executada o projeto NodeJs
